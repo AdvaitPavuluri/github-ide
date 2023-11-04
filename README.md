@@ -1,2 +1,3 @@
-# github-ide
-Run your code from within GitHub itself!
+# main.py
+# 1 1
+print("Hello world!")
