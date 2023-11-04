@@ -1,4 +1,3 @@
 nikjag.py
 test
-print(this wont work)
-----------
+print('this wont work')
