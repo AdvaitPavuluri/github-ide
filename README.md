@@ -8,7 +8,7 @@ class Gurney {
     
 }
 ----------
-Error: Could not find or load main class Gurney
-Caused by: java.lang.ClassNotFoundException: Gurney
+javac Gurney.java
+java Gurney
 
-Ran at 07:00 PM EST
+Ran at 07:06 PM EST
