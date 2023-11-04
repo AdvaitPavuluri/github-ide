@@ -3,7 +3,7 @@ Rabadi.java
 public class Rabadi {
 
     public static void main(String[] args) {
-        System.out.println("Big Rab");
+        System.out.println("Big RABADI");
     }
     
 }
