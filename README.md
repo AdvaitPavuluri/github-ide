@@ -11,4 +11,4 @@ class Gurney {
 javac Gurney.java
 java Gurney
 
-Ran at 07:45 PM EST
+Ran at 07:47 PM EST
