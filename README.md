@@ -1,5 +1,9 @@
-nikjag.py
+Rabadi.java
 test
-print('this wont work')
-----------
-this wont work
+public class Rabadi {
+
+    public static void main(String[] args) {
+        System.out.println("Big Rab");
+    }
+    
+}
