@@ -7,6 +7,6 @@ int main(){
 ----------
 $ g++ ./main.cpp -g -Wall -Wextra -o test.exe
 $ ./test.exe 
-test
+hello wordld 
 
 Ran at 02:26 PM EST
