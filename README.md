@@ -1,10 +1,11 @@
-main.py
+main.java
 
-a = 1
-b = 2
-print(a + b)
-----------
-$ python3 main.py 
-3
-
-Ran at 09:22 PM EST
+public class Main {
+  System.out.println('PENIS LICKER')
+  int pen = 69
+  int is = 420
+  
+  public static void main(String[] args) {
+  System.out.println(69*420);
+  }
+}
