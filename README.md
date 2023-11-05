@@ -1,8 +1,6 @@
-main.py
+main.cpp
 
-print("test");
-----------
-$ python3 main.py 
-test
-
-Ran at 01:54 PM EST
+#include <iostream>
+int main(){
+  std::cout << "test"<< std::endl;
+}
