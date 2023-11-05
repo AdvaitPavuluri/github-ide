@@ -2,7 +2,7 @@ main.cpp
 
 #include <iostream>
 int main(){
-  std::cout << "hello wordld " << std::endl;
+  std::cout << "hello wordld " << endl;
 }
 ----------
 $ g++ ./main.cpp -g -Wall -Wextra -o test.exe
