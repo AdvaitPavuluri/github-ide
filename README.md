@@ -1,13 +1,9 @@
-main.java
+main.cpp
 
-public class Main {
-  System.out.println('test')
-  int pen = 69
-  int is = 420
-  
-  public static void main(String[] args) {
-  System.out.println(69*420);
-  }
+#include <iostream>
+using namespace std;
+int main(){
+  cout << "hello world" << endl;
 }
 ----------
 $ javac main.java
