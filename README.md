@@ -1,6 +1,12 @@
-main.py
-test arguments
-print("Hi steve")
+main.cpp
+
+#include <iostream>
+using namespace std;
+int main(){
+  for(int i = 0; i < 100; i++){
+    cout << "Hello World" << endl;
+  }
+}
 ----------
 $ python3 main.py test arguments
 Hi steve
