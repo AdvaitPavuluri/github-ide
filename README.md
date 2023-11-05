@@ -12,4 +12,4 @@ javac Gurney.java
 java Gurney
 Big big gurn
 
-Ran at 07:57 PM EST
+Ran at 08:10 PM EST
