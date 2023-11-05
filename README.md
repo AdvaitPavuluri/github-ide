@@ -1,8 +1,5 @@
-main.py
+main.cpp
 
-print("Hello world!")
-----------
-$ python3 main.py 
-Hello world!
+std::cout << "hello" << std::endl
 
-Ran at 09:17 PM EST
+
