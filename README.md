@@ -8,8 +8,8 @@ class Gurney {
     
 }
 ----------
-$javac Gurney.java
-$java Gurney
+$ javac Gurney.java
+$ java Gurney
 Big big gurn
 
-Ran at 08:14 PM EST
+Ran at 08:15 PM EST
